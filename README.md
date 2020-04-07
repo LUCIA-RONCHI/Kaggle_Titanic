@@ -13,4 +13,4 @@ Predict survival of Titanic passengers based on variables such as age, gender, a
 
 - EDA: Exploratory Data Analysis, to understand variables' distributions and relations
 - Logistic_Regression: Achieved a score of 0.75598
-- Random_Forest: Achieved a score of 0.77990
+- Random_Forest: Achieved a score of 0.78468
